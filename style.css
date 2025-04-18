@@ -54,10 +54,7 @@ main {
     margin: 20px auto;
 }
 
-/* Footer Styling */
-footer {
-    text-align: center;
-    margin-top: 20px;
-    color: #666;
-    font-size: 0.9em;
+/* div class personal-info */
+.personal-info {
+    margin-bottom: 20px;
 }
